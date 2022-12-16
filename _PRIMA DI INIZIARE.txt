@@ -1,0 +1,9 @@
+installazione delle seguenti librerie Python (tramite il comando pip install) prima dell’inizio del workshop:
+Jupyter Notebook
+Seaborn
+Matplotlib
+Pandas
+Scikit-learn
+
+per eseguire jupyter:
+jupiter notebook
